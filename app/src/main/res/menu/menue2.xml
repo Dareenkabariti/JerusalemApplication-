@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/mode"
+        android:icon="@drawable/ic_baseline_nights_stay_24"
+        android:title="وضع ليلي"
+
+        app:showAsAction="withText" />
+    <item
+        android:id="@+id/mode2"
+        android:icon="@drawable/ic_baseline_wb_sunny_24"
+        android:title="وضع النهار"
+
+        app:showAsAction="withText" />
+</menu>

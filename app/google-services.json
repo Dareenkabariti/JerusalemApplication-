@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "700498625690",
+    "project_id": "jerusalemguid",
+    "storage_bucket": "jerusalemguid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700498625690:android:ab552b6be4031e34f88b23",
+        "android_client_info": {
+          "package_name": "com.example.jerusalemguid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700498625690-tshhhvrvn33b517i2r96mraf6d0j6kbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp4N20W9rcuiP9HF027CmcdBb9Icp36tI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700498625690-tshhhvrvn33b517i2r96mraf6d0j6kbq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

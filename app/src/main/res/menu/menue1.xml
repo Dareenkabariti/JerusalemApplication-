@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/linear"
+        android:icon="@drawable/ic_baseline_list_24"
+        android:title="قائمة"
+
+        app:showAsAction="withText" />
+    <item
+        android:id="@+id/grid"
+        android:icon="@drawable/ic_baseline_grid_on_24"
+        android:title="شبكة"
+        app:showAsAction="withText" />
+
+    <!--    <item-->
+    <!--        android:id="@+id/color"-->
+    <!--        android:icon="@drawable/ic_baseline_color_lens_24"-->
+    <!--        app:showAsAction="always"-->
+    <!--        android:title="الوان" />-->
+
+</menu>

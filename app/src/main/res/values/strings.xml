@@ -1,0 +1,15 @@
+
+<resources>
+    <string name="app_name">دليل القدس</string>
+    <string name="title_home">Places</string>
+    <string name="title_Jerusalem">Jerusalem tour</string>
+    <string name="title_dashboard">News</string>
+    <string name="title_notifications">Favorite</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="messageWithLink"><a href="https://www.aljazeera.net/news/alquds/">لمعرفة المزيد من الاخبار حول مايحدث بالقدس انقر هنا</a></string>
+    <string name="messageWithLink2"><a href="https://youtu.be/cuq3HyTvFeo?list=PLM3ZfB4RL3jNjSfS87HUCRzzZwqcRnjyE">للمزيد من الفيديوهات عن القدس انقر هنا</a></string>
+</resources>
+
